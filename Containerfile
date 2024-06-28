@@ -1,1 +1,1 @@
-FROM quay.io/omidiyanto/bootcamp:ascii2pdf
+FROM quay.io/infinitelearningibmacademyhcrh/bootcamp:ascii2pdf
